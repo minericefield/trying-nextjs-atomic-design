@@ -18,5 +18,5 @@ yarn dev
 
 # Notice
 
-Just a sample code for my personal study, and some components are omitted (e.g. Icons, Input ...) 🙏.
+Just a sample code for my personal study, and some components are omitted (e.g. Icons, Input ...) 🙏.  
 Contains some bad code, but is annotated in the comments for better writing.
